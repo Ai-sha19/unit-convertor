@@ -1,9 +1,10 @@
 # Unit Converter App
 
-This is a simple web-based Unit Converter application built using **Streamlit**. It allows users to convert between different units of **Distance, Temperature, Weight, and Pressure**.
+This is a simple web-based Unit Converter application built using **Streamlit**. It allows users to convert between different units of **Distance, Length, Temperature, Weight, and Pressure**.
 
 ## Features
 - **Distance Conversion**: Convert between meters, kilometers, feet, and miles.
+- **Length Conversion**: Convert between Millimeters, Centimeters, Meters, Inches, Feet, Yards.
 - **Temperature Conversion**: Convert between Celsius and Fahrenheit.
 - **Weight Conversion**: Convert between kilograms, grams, pounds, and ounces.
 - **Pressure Conversion**: Convert between pascals, hectopascals, kilopascals, and bar.
